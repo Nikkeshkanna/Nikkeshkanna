@@ -14,14 +14,8 @@ I'm a **Computer Science & Engineering student** from **Salem, Tamil Nadu 🇮�
 
 Currently navigating the full-stack universe with **Java at the backend** and **React at the frontend**, while continuously leveling up my DSA and system design skills.
 
-```java
-public class Nikkeshkanna {
-    String focus      = "Java Full Stack Development";
-    String[] learning = {"React.js", "Spring Boot", "SQL", "DSA"};
-    String goal       = "Build. Learn. Contribute. Repeat.";
-    boolean openToWork = true;
-}
-```
+🎯 My goal is simple — **Build. Learn. Contribute. Repeat.**
+🤝 I'm **open to work** and always excited to collaborate on meaningful projects.
 
 ---
 
