@@ -28,9 +28,6 @@ Currently navigating the full-stack universe with **Java at the backend** and **
   <a href="mailto:nikkeshkanna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://mastodon.social/@NikkeshkannaCV" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
-  </a>
 </p>
 
 ---
