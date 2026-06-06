@@ -10,7 +10,7 @@
 
 ### 👋 Hello, World!
 
-I'm a **Computer Science & Engineering student** from **Salem, Tamil Nadu 🇮🇳**, deeply passionate about crafting scalable web applications and solving complex programming challenges.
+I'm a **Computer Science & Engineering student** from **Salem, Tamil Nadu, India**, deeply passionate about crafting scalable web applications and solving complex programming challenges.
 
 Currently navigating the full-stack universe with **Java at the backend** and **React at the frontend**, while continuously leveling up my DSA and system design skills.
 
@@ -27,6 +27,9 @@ Currently navigating the full-stack universe with **Java at the backend** and **
   </a>
   <a href="mailto:nikkeshkanna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://mastodon.social/@NikkeshkannaCV" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
   </a>
 </p>
 
@@ -125,15 +128,23 @@ Currently navigating the full-stack universe with **Java at the backend** and **
 
 ---
 
-## 🎯 Current Focus
+## ⏱️ WakaTime Coding Stats
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Nikkeshkanna&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9)](https://wakatime.com/@Nikkeshkanna)
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikkeshkanna&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff&layout=compact)](https://wakatime.com/@Nikkeshkanna)
+
+[![WakaTime](https://wakatime.com/badge/user/Nikkeshkanna.svg?style=for-the-badge)](https://wakatime.com/@Nikkeshkanna)
+
+</div>
+
+---
 
 <div align="center">
 
 ### 💡 Dev Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&borderColor=%2321262d&qColor=%2379c0ff&aColor=%23c9d1d9&codeColor=%2379c0ff)
 
 </div>
 
