@@ -127,16 +127,7 @@ Currently navigating the full-stack universe with **Java at the backend** and **
 
 ## 🎯 Current Focus
 
-```text
-Java Full Stack     ████████████████░░░░   80%
-React.js            ████████████░░░░░░░░   60%
-Spring Boot         ██████████░░░░░░░░░░   50%
-Data Structures     ████████████████░░░░   78%
-System Design       ██████░░░░░░░░░░░░░░   30%
-SQL / Databases     ████████████░░░░░░░░   62%
-```
-
----
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Nikkeshkanna&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9)](https://wakatime.com/@Nikkeshkanna)
 
 <div align="center">
 
