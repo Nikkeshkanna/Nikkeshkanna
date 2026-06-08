@@ -4,7 +4,7 @@
 
 </div>
 
-
+---
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=79C0FF&background=0D111700&vCenter=true&width=380&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Open+Source+Contributor;DSA+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 ### 👋 Hello, World!
