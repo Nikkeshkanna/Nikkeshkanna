@@ -132,9 +132,6 @@ Currently navigating the full-stack universe with **Java at the backend** and **
 <div align="center">
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikkeshkanna&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=58a6ff&layout=compact)](https://wakatime.com/@Nikkeshkanna)
-
-[![WakaTime](https://wakatime.com/badge/user/Nikkeshkanna.svg?style=for-the-badge)](https://wakatime.com/@Nikkeshkanna)
-
 </div>
 
 ---
