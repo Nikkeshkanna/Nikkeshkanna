@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2233,100:0a3069&height=200&section=header&text=Nikkeshkanna%20C%20V&fontSize=48&fontColor=79c0ff&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
+
 ---
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=79C0FF&background=0D111700&vCenter=true&width=380&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Enthusiast;Open+Source+Contributor;DSA+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
