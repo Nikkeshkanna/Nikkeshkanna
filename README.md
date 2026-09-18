@@ -9,7 +9,7 @@
 
 ### 👋 Hello, World!
 
-I'm a **Computer Science & Engineering student** from **Salem, Tamil Nadu, India**, deeply passionate about crafting scalable web applications and solving complex programming challenges.
+I'm a **Computer Science & Engineering student** from **Namakkal, Tamil Nadu, India**, deeply passionate about crafting scalable web applications and solving complex programming challenges.
 
 Currently navigating the full-stack universe with **Java at the backend** and **React at the frontend**, while continuously leveling up my DSA and system design skills.
 
